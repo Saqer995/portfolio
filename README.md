@@ -5,10 +5,10 @@
 ### cmd 
 `mkdir` create folder  
 `cd ..` get folder up  
-`type test.txt ` prints the file
-`type a.txt b.txt ` prints two files
-`type a.txt b.txt > ab.txt ` combine two files and writes output to new file
-`echo "hello world" > test.txt` creats file with content  
+`type test.txt ` prints the file  
+`type a.txt b.txt ` prints two files  
+`type a.txt b.txt > ab.txt ` combine two files and writes output to new file  
+`echo "hello world" > test.txt` creats file with content   
 `echo "hello world" >> test.txt` adds text to file  
 `copy test.txt testBACKUP.txt` copys a file in the same directory    
 `copy test.txt ../` copys a file one directory up  
