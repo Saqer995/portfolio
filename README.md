@@ -20,7 +20,7 @@
 
 ### git
 #### initially
-`git init` ةخرثس den derzeitigkjlken ordner in ein von git retracktes repository - locally
+`git init` initialies a empty von git retracktes repository - locally
 
 #### basic workflow
 `git status` shows the the state of the folder (if its connected to git or not)  
@@ -41,5 +41,9 @@
 1. something
 2. in 
 3. a order
+<<<<<<< HEAD
 4. another"stupid things " 
 "stupid things " 
+=======
+4. another"smart things" 
+>>>>>>> feature
